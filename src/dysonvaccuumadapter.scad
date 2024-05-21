@@ -1,4 +1,4 @@
-// Dyson hand vaccuum adapter for vaccuum zip locks
+ // Dyson hand vaccuum adapter for vaccuum zip locks
 
 diameter1 = 34.2;
 diameter2 = 31.5;
@@ -6,7 +6,7 @@ wall_thickness = 2.34;
 innerdiameter1 = diameter1 - (wall_thickness *2);
 innerdiameter2 = innerdiameter1 + (diameter1 - diameter2) / 2;
 
-$fn=100;
+$fn=200;
 
 difference()
 {
