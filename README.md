@@ -5,3 +5,6 @@ Evacuating such ziplocs with a hand pump is a bit tedious. Using a vaccum cleane
 Here is an adapter for my Dyson hand vacuum cleaner for vacuuming suitable ziplock bags.
 
 Make sure to print this with the flat side down and add adhesion using a brim. 
+
+
+![A rendering of the dyson hand vacuum adapter](images/rendering.png "A rendering of the dyson hand vacuum adapter")
